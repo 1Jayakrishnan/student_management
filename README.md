@@ -17,7 +17,6 @@ This is a full-stack application built with **Django** (for backend API) and **R
 - **Backend:** Django, Django REST Framework (DRF)
 - **Frontend:** React.js, Axios (for API requests)
 - **Database:** SQLite (can be replaced with any database like PostgreSQL)
-- **Authentication (Optional):** JWT (JSON Web Tokens) for user authentication and authorization.
 
 
 
